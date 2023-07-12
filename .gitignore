@@ -23,3 +23,5 @@ venv.bak/
 *.dir
 *.dat
 *.bak
+
+sample.txt
